@@ -179,7 +179,7 @@ The seeder creates demo recruiters, candidates, jobs and applications.
 **Mohammad Rehan**
 Web developer (HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, React)
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/mdrehan8084
 
 ---
 
