@@ -6,17 +6,7 @@ A full-stack job portal built with **Laravel 12** and **Bootstrap 5**. It has th
 
 ---
 
-## Screenshots
 
-| Home | Jobs list |
-|---|---|
-| ![Home](screenshots/home.png) | ![Jobs](screenshots/jobs.png) |
-
-| Recruiter applicants | Admin dashboard |
-|---|---|
-| ![Applicants](screenshots/applicants.png) | ![Admin](screenshots/admin.png) |
-
----
 
 ## Features
 
